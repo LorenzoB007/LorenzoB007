@@ -1,4 +1,8 @@
-teste
+Nome: Lorenzo Bruscato
+Idade: 20 anos
+Faculdade: Unisul Florianópolis
+Curso: Ciência da Computação
+Aprendendo: Java (Iniciante)
 
 <!--
 **LorenzoB007/LorenzoB007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
