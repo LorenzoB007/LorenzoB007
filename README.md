@@ -1,7 +1,11 @@
 Nome: Lorenzo Bruscato
+
 Idade: 20 anos
+
 Faculdade: Unisul Florianópolis
+
 Curso: Ciência da Computação
+
 Aprendendo: Java (Iniciante)
 
 <!--
